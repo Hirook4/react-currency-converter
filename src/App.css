@@ -1,11 +1,15 @@
-h1{
-    text-align: center;
+body {
+  margin: 0;
+  padding: 0;
 }
 
-.linha {
-    display: flex;
-    margin-top: 35px;
-    justify-content: space-around;
-    background-color: rgba(244, 244, 247, 0.89);
+h1 {
+  text-align: center;
+}
 
+.line {
+  display: flex;
+  gap: 280px;
+  margin-top: 80px;
+  background-color: rgba(13, 17, 23);
 }
